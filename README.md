@@ -1,14 +1,9 @@
 # Whatsapp-Clone
 A Simple Chating Base Based on Firebase Database || Having All The Necessary Features Of Chat App. 
 
-
-### <pre> Welcome Screen                        Groups                      Private Chat Room </pre>
-<pre>
-<img src="./Screenshots/Screenshot_2020-06-29-18-53-13-64_fbe4b7aaa480e2323ff2703fedbc7818.png" width="200" height="400" />              <img src="/Screenshots/Screenshot_2020-06-29-18-53-17-25_fbe4b7aaa480e2323ff2703fedbc7818.png" width="200" height="400" />               <img src="/Screenshots/Screenshot_2020-06-29-18-53-07-61_fbe4b7aaa480e2323ff2703fedbc7818.png" width="200" height="400" />
-</pre>
-
-### <pre> Find Contact                       Friend Request                  Profile </pre>
-
-<pre>
-<img src="/Screenshots/Screenshot_2020-06-29-19-27-46-15_fbe4b7aaa480e2323ff2703fedbc7818.png" width="200" height="400" />              <img src="/Screenshots/Screenshot 2020-06-29 at 7.32.35 PM.jpeg" width="200" height="400" />                 <img src="/Screenshots/Screenshot_2020-06-29-18-53-30-05_fbe4b7aaa480e2323ff2703fedbc7818.png" width="200" height="400" />
-</pre>
+![1](https://user-images.githubusercontent.com/52414610/156615843-1d81dba0-a28a-42cc-8b81-f38d8c2bd0b5.png)
+![2](https://user-images.githubusercontent.com/52414610/156615838-4a2d6b24-2881-494e-a2e8-20e0323688d6.png)
+![3](https://user-images.githubusercontent.com/52414610/156615836-c5d7b2bd-5cd4-4949-8373-99f2b295df42.png)
+![44](https://user-images.githubusercontent.com/52414610/156617048-8da2fe9e-f341-4686-961d-f3a2f81e0f86.png)
+![55](https://user-images.githubusercontent.com/52414610/156617046-170392bf-82e7-4bc2-8eac-16779a041959.png)
+![66](https://user-images.githubusercontent.com/52414610/156617040-6749bfd7-6b06-417b-9220-6163f9ef1caf.png)
